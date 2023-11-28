@@ -1,0 +1,7 @@
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\bin\Debug\Assignment_Day17.exe.config
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\bin\Debug\Assignment_Day17.exe
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\bin\Debug\Assignment_Day17.pdb
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\obj\Debug\Assignment_Day17.csproj.AssemblyReference.cache
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\obj\Debug\Assignment_Day17.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\obj\Debug\Assignment_Day17.exe
+E:\Mphasis_LVC\Day17\Assignment\Assignment_Day17\Assignment_Day17\obj\Debug\Assignment_Day17.pdb
